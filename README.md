@@ -15,6 +15,22 @@
 - **Frameworks & Tools:** Android Studio, VS Code, Blender, MATLAB, Photoshop
 - **Areas:** Representation learning, ensemble learning, transfer learning, distributed learning, data cleaning & wrangling.
 
+## 🧰 Tech Stack
+
+Here are some of the languages, frameworks, and tools I’ve worked with—displayed with their respective badges for a quick visual overview:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ## 📌 Featured Projects
 Here are some of my favourite projects. You can find more in the **Repositories** tab!
 - [**DataScience6300**](https://github.com/Prajwal-Mhatre/DataScience6300) – A collection of data science projects and assignments demonstrating statistical analysis and visualization.
