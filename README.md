@@ -29,6 +29,19 @@ Here are some of my favourite projects. You can find more in the **Repositories*
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Prajwal-Mhatre&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-Mhatre&layout=compact&langs_count=6)
 -->
+![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwal-Mhatre&show_icons=true&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Prajwal-Mhatre&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-Mhatre&layout=compact&theme=transparent)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Prajwal-Mhatre&theme=flat&column=4)
+
+## 📈 Recent GitHub Activity
+
+Visualize my coding patterns over the last few weeks with this activity graph. It highlights how actively I'm engaging with projects and contributions across GitHub.
+
+[![Prajwal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-Mhatre&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Get in Touch
 I'm always eager to collaborate and learn! Feel free to connect with me on **LinkedIn** or open an issue in one of my repositories.
