@@ -15,14 +15,6 @@
 - **Frameworks & Tools:** Android Studio, VS Code, Blender, MATLAB, Photoshop
 - **Areas:** Representation learning, ensemble learning, transfer learning, distributed learning, data cleaning & wrangling.
 
-## 📌 Featured Projects
-Here are some of my favourite projects. You can find more in the **Repositories** tab!
-- [**DataScience6300**](https://github.com/Prajwal-Mhatre/DataScience6300) – A collection of data science projects and assignments demonstrating statistical analysis and visualization.
-- [**GaussianSpatting**](https://github.com/Prajwal-Mhatre/GaussianSpatting) – Implementation of neural rendering techniques using Gaussian splatting.
-- [**Disentanglement**](https://github.com/Prajwal-Mhatre/Disentanglement) – Experiments with disentangled representation learning for generative models.
-- [**NeRF**](https://github.com/Prajwal-Mhatre/NeRF) – Exploring neural radiance fields for 3D scene reconstruction.
-- [**AndroidStudioFF**](https://github.com/Prajwal-Mhatre/AndroidStudioFF) – Android applications demonstrating IoT control and real‑time data streaming.
-- [**Prajwal-Mhatre**](https://github.com/Prajwal-Mhatre/Prajwal-Mhatre) – You're here! This repository powers my GitHub profile.
 
 ## 🏆 Stats & Achievements
 <!--
@@ -59,11 +51,6 @@ Here are some of the key technologies and tools I work with, displayed as icons 
   <img src="https://www.vectorlogo.zone/logos/adobe_photoshop/adobe_photoshop-icon.svg" alt="Photoshop" width="40" height="40" title="Photoshop"/>
 </p>
 
-## 📈 Recent GitHub Activity
-
-Visualize my coding patterns over the last few weeks with this activity graph. It highlights how actively I'm engaging with projects and contributions across GitHub.
-
-[![Prajwal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-Mhatre&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Get in Touch
 I'm always eager to collaborate and learn! Feel free to connect with me on **LinkedIn** or open an issue in one of my repositories.
