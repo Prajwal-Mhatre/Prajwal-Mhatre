@@ -10,7 +10,7 @@
   - Serving as a teaching assistant for Signals & Systems, guiding students in electrical engineering fundamentals.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, Java, C/C++, C#, R, MATLAB
+- **Languages:** Python, Java, Javascript, C, C#, R, MATLAB , SQL
 - **Machine Learning/Data Science:** PyTorch, TensorFlow, Keras, Scikit‑learn, NumPy, Pandas, CUDA, MPI, OpenMP
 - **Frameworks & Tools:** Android Studio, VS Code, Blender, MATLAB, Photoshop
 - **Areas:** Representation learning, ensemble learning, transfer learning, distributed learning, data cleaning & wrangling.
